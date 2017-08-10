@@ -1,0 +1,5 @@
+[submodule "toolchain/crosstool-ng"]
+	url = toolchain/crosstool-ng
+[submodule "toolchain/wxWidgets"]
+  path = toolchain/wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets.git

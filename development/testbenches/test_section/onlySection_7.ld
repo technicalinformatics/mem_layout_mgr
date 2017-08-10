@@ -1,0 +1,9 @@
+MEMORY
+{
+    PMU_PFLASH0 (rxp): org = 0x80000000, len = 3K
+    PMU_DFLASH0 (w!xp): org = 0xafe00000, len = 128K
+    PMI_SPRAM (rx!p):   org = 0xd4000000, len = 48K
+    DMI_LDRAM (w!xp):   org = 0xd0000000, len = 56K
+    PCP_PRAM (wp!x):    org = 0xf0050000, len = 16K
+    PCP_CMEM (rpx):     org = 0xf0060000, len = 32K
+}
