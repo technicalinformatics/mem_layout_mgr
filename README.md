@@ -42,8 +42,6 @@ Each line will describe a single addition/removement/change and adhere to the fo
 
 Authors (so far):
 
-  * MB   Marcel Baunach
-  * RG   Renata Gomes
   * PL   Peter Lorenz
 
 Type:
