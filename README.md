@@ -1,14 +1,14 @@
 # Memory Layout Manager for Single and MultiCore Systems
 [![Build Status](https://travis-ci.org/tompollard/phd_thesis_markdown.svg?branch=master)](https://travis-ci.org/tompollard/phd_thesis_markdown)  
 
- The memory layout manager is a simple GUI, which should help to parse and
- verify linker scripts projects.
+ The memory layout manager is a simple GUI, which should help to parse and verify linker scripts projects.
  
  Details: https://github.com/technicalinformatics/mem_layout_mgr/blob/master/thesis/memory-layout-management.pdf
 
  I recommend to use Netbeans IDE 8.x, because the bison support is working out  
  of the box. Otherwise, I would recommend and install a  plugin for bison flex.
  
+ ![Result](https://github.com/technicalinformatics/mem_layout_mgr/blob/master/thesis/gui.png)
 
 ## Installation
 
@@ -26,7 +26,6 @@ It will last around 40 minutes.
 In Windows, you need to run a bash window first. [Activate bash shell](http://www.windowscentral.com/how-install-bash-shell-command-line-windows-10)
 in Windows 10.  
 
-In Arch Linux, it is recommended to take a look to [Link](https://wiki.filezilla-project.org/Compiling_FileZilla_3_under_Windows)
 
 ## Usage
 
