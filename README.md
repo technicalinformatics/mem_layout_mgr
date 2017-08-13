@@ -70,4 +70,6 @@ GNU General Public License v3.0
 ---
 
 ### Grammar-Overview
+
+![Result](https://github.com/technicalinformatics/mem_layout_mgr/blob/master/development/parser/output/parser.png)
 Go to development/parser/output/parser.png
