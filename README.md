@@ -3,9 +3,12 @@
 
  The memory layout manager is a simple GUI, which should help to parse and
  verify linker scripts projects.
+ 
+ Details: https://github.com/technicalinformatics/mem_layout_mgr/blob/master/thesis/memory-layout-management.pdf
 
  I recommend to use Netbeans IDE 8.x, because the bison support is working out  
  of the box. Otherwise, I would recommend and install a  plugin for bison flex.
+ 
 
 ## Installation
 
@@ -61,7 +64,6 @@ Table of changes:
 ## Credits
 
   * Master Project, written by Peter Lorenz.
-  * Marcel Baunach and Renata Gomez supervised this project.
 
 ## License
 
