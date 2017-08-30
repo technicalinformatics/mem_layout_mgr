@@ -8,7 +8,7 @@
  I recommend to use Netbeans IDE 8.x, because the bison support is working out  
  of the box. Otherwise, I would recommend and install a  plugin for bison flex.
  
- ![Result](https://github.com/technicalinformatics/mem_layout_mgr/blob/master/thesis/gui.png)
+ ![alt Result](https://github.com/technicalinformatics/mem_layout_mgr/blob/master/thesis/gui.png)
 
 ## Installation
 
